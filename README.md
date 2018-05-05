@@ -1,6 +1,5 @@
 # Stake Shift
 
-
 Code to perform Stake Shift computation on the Litecoin blockchain. The project also contains the code to perform the comparison of Address Linking Heuristics.
 
 The code uses the [BlockSci tool v3.0](https://github.com/citp/BlockSci) for the parsing of the Bitcoin and Litecoin blockchain, as well as for the clustering of addresses.
@@ -13,7 +12,5 @@ The ltc_block_sh, ltc_block_sh_2, ltc_block_sh_3, ltc_block_sh_4 files contain s
 
 
 # LICENSE
-
-___
 
 Stake Shift is released under the MIT license. See LICENSE for details.
