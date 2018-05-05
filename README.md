@@ -12,3 +12,8 @@ The Litecoin Stake Shift.ipynb is an IPython Notebook which contains all the cod
 The ltc_block_sh, ltc_block_sh_2, ltc_block_sh_3, ltc_block_sh_4 files contain saved statistical distances used in the code. 
 
 
+LICENCE
+
+___
+
+Stake Shift is released under the MIT license. See LICENSE for details.
